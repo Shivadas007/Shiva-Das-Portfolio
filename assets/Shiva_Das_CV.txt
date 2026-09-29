@@ -1,0 +1,73 @@
+================================================================================
+                                 SHIVA DAS
+                         CSIT ENGINEER & CREATIVE DEVELOPER
+================================================================================
+Location: Kathmandu, Nepal (LAT 27.7172° N, LONG 85.3240° E)
+Portfolio: https://shivadas.dev
+Email: shivadas.sw@gmail.com
+GitHub: https://github.com
+LinkedIn: https://linkedin.com
+
+--------------------------------------------------------------------------------
+EXECUTIVE PROFILE
+--------------------------------------------------------------------------------
+B.Tech Computer Science & Information Technology (CSIT) engineer with deep
+specialization in creative web development, artificial intelligence / machine learning,
+interactive 3D WebGL experiences (Three.js/GLSL), and modern application architectures.
+Passionate about building immersive digital interfaces where robust code, machine
+intelligence, and interactive aesthetics collide.
+
+--------------------------------------------------------------------------------
+CORE COMPETENCIES & TECHNICAL ARSENAL
+--------------------------------------------------------------------------------
+• Programming Languages:
+  - JavaScript (ES6+), TypeScript, Python, HTML5, CSS3/SCSS, C/C++, SQL
+
+• Frontend & 3D Interactive Graphics:
+  - React.js, Three.js, WebGL, GLSL Shaders, GSAP (GreenSock), Canvas API, Vite, Tailwind CSS
+
+• AI, Machine Learning & Data Science:
+  - TensorFlow, PyTorch, Scikit-Learn, NumPy, Pandas, Computer Vision, Neural Networks
+
+• Backend, Systems & Security:
+  - Node.js, Express, RESTful APIs, Git / GitHub, Linux/Bash, Cybersecurity Foundations
+
+--------------------------------------------------------------------------------
+NOTABLE PROJECTS & INNOVATIONS
+--------------------------------------------------------------------------------
+[01] Breast Cancer Early Detection Classifier (AI / ML)
+     - Implemented deep learning and classification models on clinical datasets.
+     - Engineered feature extraction pipelines achieving high sensitivity and specificity.
+     - Tech Stack: Python, TensorFlow, Scikit-Learn, Pandas.
+
+[02] Intelligent AI Tools & Applications Suite
+     - Designed human-first tools blending modern LLM models with clean, intuitive interfaces.
+     - Created streaming response pipelines and task-grounded automation agents.
+     - Tech Stack: Python, Node.js, REST APIs, Fastify/Express.
+
+[03] Immersive 3D Orbital Portfolio & WebGL Playground
+     - Developed real-time hardware-accelerated 3D orbital radars and interactive constellations.
+     - Built custom GLSL shaders, procedural asteroid particle systems, and kinetic camera rigs.
+     - Tech Stack: Three.js, React/Vanilla JS, GSAP, WebGL.
+
+[04] Interface Systems & Web Applications
+     - Scalable web worlds emphasizing 60fps interaction speed, responsive layouts, and accessibility.
+     - Tech Stack: React, TypeScript, Tailwind CSS, Vite.
+
+--------------------------------------------------------------------------------
+EDUCATION & CERTIFICATIONS
+--------------------------------------------------------------------------------
+• Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT)
+  Tribhuvan University (2022 — Present)
+  - Focus: Data Structures & Algorithms, Artificial Intelligence, Database Systems, Web Tech.
+
+--------------------------------------------------------------------------------
+HONORS, ACTIVITIES & INTERESTS
+--------------------------------------------------------------------------------
+• Hackathon participant & open-source contributor
+• Creative technology, procedural graphics, and generative systems
+• Real-time digital signal processing & interactive physics
+
+================================================================================
+                  [ END OF RESUME // SHIVA DAS — 2026 ]
+================================================================================
